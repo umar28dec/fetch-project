@@ -18,4 +18,4 @@
 5. Get Api to get data from database - http://localhost:4001/todos
 
 ### Run test cases
-1. To run test cases execute command "npm run test"# fetch-project
+1. To run test cases execute command "npm run test"
