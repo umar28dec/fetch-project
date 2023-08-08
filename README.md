@@ -21,6 +21,8 @@
 1. To run test cases execute command "npm run test"
 
 ### Create database
+1. Execute this command to create database "npm run createDataBase"
+2. You directly run "npm start " also to create database
 
 ### Note:
 1. Before going to run test start application once so that data will be fetched 
