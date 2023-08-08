@@ -19,3 +19,9 @@
 
 ### Run test cases
 1. To run test cases execute command "npm run test"
+
+### Create database
+
+### Note:
+1. Before going to run test start application once so that data will be fetched 
+2. Check logs for cron running status

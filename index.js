@@ -26,7 +26,7 @@ app.get("/todos", async (req, res, next) => {
     }
 });
 
-const job = nodeCron.schedule("3 * * * * *", async function jobYouNeedToExecute() {
+const job = nodeCron.schedule("1 * * * * *", async function jobYouNeedToExecute() {
     console.log("Cron Started");
     try {
         const response = await axios.get(process.env.REMOTE_HOST);
